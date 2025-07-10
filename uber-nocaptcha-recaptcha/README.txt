@@ -1,9 +1,9 @@
 === Uber reCaptcha ===
 Contributors: cristian.raiber, silkalns, wpchill
-Tags: comments, spam, recaptcha, login protection, comment protection, spam protection, nocaptcha, recaptcha, captcha
+Tags:  spam, login protection, comment protection, spam protection, captcha
 Requires at least: 3.9
-Tested up to: 6.6
-Stable tag: 1.1.4
+Tested up to: 6.8
+Stable tag: 1.1.5
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -44,6 +44,9 @@ This section describes how to install the plugin and get it working.
 1. Back-end UI
 
 == Changelog ==
+
+= 1.1.5 - 10.07.2025 =
+* Changed: Update tested up to
 
 = 1.1.4 - 29.10.2023 =
 * Fixed: PHP 8.x warnings ( [#15](https://github.com/razvanaldea89/uber-recaptcha/issues/15) )
